@@ -10,7 +10,7 @@ Full Stack Software Developer
 - 🌱 I’m currently learning C# and .NET
 - 🔭 I have experience with **React/JS, HTML, CSS**
 - 🌍  I'm based in Nashville, TN**
-- 📫 How to reach me: josephmaifeld@gmail.com**
+- 📫 How to reach me: josephmaifeld@gmail.com
 - 💬 Ask me about anything food or drink related
 
 <a href="https://www.github.com/MasterBlaster3" target="_blank" rel="noreferrer"><img
@@ -39,9 +39,9 @@ React, JS
 
 
 
-<!-- ### Support Me
+### Support Me
 
-<a href="https://www.buymeacoffee.com/drleisure"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
+<a href="https://www.buymeacoffee.com/MasterBlaster3"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 <!--
 **MasterBlaster3/MasterBlaster3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
