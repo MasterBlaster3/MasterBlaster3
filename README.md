@@ -25,7 +25,7 @@ Software Developer
 
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hulikner&show_icons=true&theme=discord_old_blurple)](https://github.com/hulikner/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hulikner&show_icons=true&theme=discord_old_blurple)](https://github.com/hulikner/github-readme-stats)
 
 
 <!--
