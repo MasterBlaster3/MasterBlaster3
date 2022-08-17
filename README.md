@@ -4,7 +4,7 @@
 Joe Maifeld
 ===============================
 
-Software Developer
+Full Stack Software Developer
 ------------------
 
 
@@ -19,9 +19,11 @@ Software Developer
   <img src="https://komarev.com/ghpvc/?username=MasterBlaster3&style=flat-square&color=blue" alt=""/>
 </div>
 
-- 🌱 I’m currently learning C# and .NET**
+- 🌱 I’m currently learning C# and .NET
 - 🔭 I have experience with **React/JS, HTML, CSS**
 - 🌍  I'm based in Nashville, TN**
+- 📫 How to reach me: josephmaifeld@gmail.com**
+- 💬 Ask me about anything food or drink related
 
 <b>My GitHub Stats</b>
 
