@@ -13,6 +13,9 @@ Full Stack Software Developer
 - 📫 How to reach me: josephmaifeld@gmail.com**
 - 💬 Ask me about anything food or drink related
 
+<a href="https://www.github.com/MasterBlaster3" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/MasterBlaster3?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 <h3 align="left">Languages and Tools:</h3>
 
 React, JS
